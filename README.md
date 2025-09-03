@@ -1,8 +1,7 @@
 # UW–Madison Math/CS 714: Code examples
-Math/CS 714 is a graduate course taught at the University of Wisconsin, Madison on methods of computational mechanics.
+Math/CS 714 is a graduate course taught at the University of Wisconsin, Madison on methods of computational mathematics. [Visit the course website.](https://web.math.wisc.edu/math714/)
 
-The codes are primarily written in Python and make use of several
-well-established libraries
+These code examples accompany the lecture materials. They are primarily written in Python and make use of several well-established libraries:
 
 - [NumPy](https://numpy.org) for numerical linear algebra
 - [SciPy](https://scipy.org) for scientific routines and algorithms
