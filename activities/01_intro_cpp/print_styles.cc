@@ -1,4 +1,4 @@
-#include <cstdio>   // C-style
+#include <cstdio>	// C-style
 #include <iostream> // C++-style
 
 int main()

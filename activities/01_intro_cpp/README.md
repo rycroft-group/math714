@@ -20,6 +20,11 @@ The directory **multi_proj** demonstrates how to split a C++ program across
 several different file. The directory **matrices** contains some basic
 routines for matrix computations.
 
+## C++ configuration notes
+Please refer to [this document](https://people.math.wisc.edu/~chr/am205/g_act/CplusplusConfiguration.pdf) for configuring C++ on your machine. We recommend getting started with C++ for Math/CS 714 use the GNU Compiler Collection (gcc) collection.
+
+**Install a GCC at version 13 or 14 is good.** The document was written 4 years ago and the gcc version is outdated.
+
 ## GNU Make
 The C++ tutorial also introduced [GNU Make](https://www.gnu.org/software/make/)
 which can simplify the compilation of large projects split across multiple files.
@@ -39,6 +44,5 @@ cp config.mk.template config.mk
 Then edit the **config.mk** file for use with your compiler and system.
 
 ## Credit
-This material is derived from previous C++ tutorials given by current and
-former Ph.D. students in the Rycroft Group, including Dan Fortunato, Nick
+This material is derived from previous C++ tutorials given by Prof. Chris Rycroft and former Ph.D. students in the Rycroft Group, including Dan Fortunato, Nick
 Boffi, Nick Derr, and Michael Emanuel.
