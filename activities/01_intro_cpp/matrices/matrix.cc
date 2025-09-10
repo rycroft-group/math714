@@ -24,8 +24,8 @@ double *rand_matrix(int m, int n)
     return A;
 }
 
-/** Creates a rectangular matrix where each entry is uniformly
- * distributed between -1 and 1.
+/** Creates a rectangular matrix where each entry is gradient
+ * along the columns.
  * \param[in] (m,n) the dimensions of the matrix.
  * \return A pointer to the matrix. */
 double *gradient_matrix(int m, int n)
