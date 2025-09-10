@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+*.pyd
+*.env
+*.venv
+.env
+.venv
+*.egg-info/
+dist/
+build/
+*.log
+
+# C++
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.dll
+*.a
+*.lib
+*.gch
+*.dSYM/
+*.vcxproj*
+*.sln
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# macOS
+.DS_Store
+
+# General
+*.swp
+*.bak
+*.tmp
