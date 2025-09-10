@@ -23,8 +23,10 @@ def fprime(x):
     (x1, x2, w1, w2) = (x[0], x[1], x[2], x[3])
     x1s = x1*x1
     x2s = x2*x2
-    return np.array([[0, 0, 1, 1], [w1, w2, x1, x2],
-                     [2*w1*x1, 2*w2*x2, x1s, x2s], [3*w1*x1s, 3*w2*x2s, x1s*x1, x2s*x2]])
+    return np.array([[0, 0, 1, 1], 
+                     [w1, w2, x1, x2],
+                     [2*w1*x1, 2*w2*x2, x1s, x2s], 
+                     [3*w1*x1s, 3*w2*x2s, x1s*x1, x2s*x2]])
 
 
 # Initial condition
