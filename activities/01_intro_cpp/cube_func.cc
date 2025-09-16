@@ -1,9 +1,8 @@
 #include <iostream>
 // this code will compile
 
-double cube(double x)
-{
-	return x * x * x;
+double cube(double x) {
+	return x*x*x;
 }
 
 int main()
