@@ -14,4 +14,11 @@ The program `rossler_trap.py` numerically integrate the Rossler ODE system using
 python3 rossler_trap.py
 ```
 
+## The `z_stability.py` example
+
+The program `z_stability.py` numerically integrate a test ODE with three multistep methods with varying stability. The program can be run by typing the following command in the terminal:
+
+```Shell
+python3 z_stability.py
+```
 
