@@ -2,6 +2,10 @@
 
 This directory contains several introductory examples used in Lectures 6 and 7 on iterative methods.
 
+## The `iter_methods_demo.ipynb` notebook
+
+The Python notebook compares the steepest descent and the conjugate gradient in solving for a symmetric positive definite matrix with varying condition number. 
+
 ## The `iter_methods.ipynb` notebook
 
 The Python notebook contains the same code and functionality in `s_descent.py`, `simple_cg.py`, and `poisson_cg.py`. It combines the scripts into an interactive format, making it easier to run, visualize results, and make modifications directly within the notebook environment. 
