@@ -22,3 +22,26 @@ The program `z_stability.py` numerically integrate a test ODE with three multist
 python3 z_stability.py
 ```
 
+## The `stab_region.py` example
+
+The program `stab_region.py` calculates the stability region of several multi-step methods. The program can be run by typing the following command in the terminal:
+
+```Shell
+python3 stab_region.py
+```
+
+## The `stiff.py/stiff2.py` example
+
+The program `stiff.py/stiff2.py` integrates a stiff system using explicit/implicit methods. The program can be run by typing the following command in the terminal:
+
+```Shell
+python3 stiff.py/stiff2.py
+```
+
+## The `stiff3.py` example
+
+The program `stiff3.py` integrates the example ODE with the trapezoid method. The program can be run by typing the following command in the terminal:
+
+```Shell
+python3 stiff3.py
+```
