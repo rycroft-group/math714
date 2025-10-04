@@ -35,7 +35,8 @@ python3 stab_region.py
 The program `stiff.py/stiff2.py` integrates a stiff system using explicit/implicit methods. The program can be run by typing the following command in the terminal:
 
 ```Shell
-python3 stiff.py/stiff2.py
+python3 stiff.py
+python3 stiff2.py
 ```
 
 ## The `stiff3.py` example
