@@ -6,7 +6,7 @@ detected_OS := $(shell sh -c 'uname 2>/dev/null || echo Unknown')
 
 # Is the OS Mac?
 ifeq ($(detected_OS), Darwin)
-cxx := g++-mp-14 -O3
+cxx := g++-14 -O3
 cflags := -fopenmp -Wall -ansi -pedantic
 lp_lflags := -llapack -lblas
 endif
