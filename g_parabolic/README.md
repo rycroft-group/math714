@@ -1,6 +1,6 @@
 # Parabolic equations examples
 
-This directory contains several introductory examples used in Lectures 6 and 7 on iterative methods.
+This directory contains several introductory examples used in Lectures 11 and 12 on parabolic equations.
 
 ## The `parabolic.ipynb` notebook
 
