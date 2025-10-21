@@ -1,4 +1,4 @@
-# Iterative methods examples
+# Parabolic equations examples
 
 This directory contains several introductory examples used in Lectures 6 and 7 on iterative methods.
 
