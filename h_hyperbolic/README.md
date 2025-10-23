@@ -21,3 +21,19 @@ The program `transp2.py` solves the linear advection equation using the central 
 ```Shell
 python3 transp2.py
 ```
+
+## The `transp3.py` example
+
+The program `transp3.py` implements the leapfrog method. For a smooth initial condition, the results are accurate; whereas for a step function initial condition, spurious oscillations occur. The program can be run by typing the following command in the terminal:
+
+```Shell
+python3 transp3.py
+```
+
+## The `transp4.py` example
+
+The program `transp4.py` shows three ways of implementing PDE integration in Python. The program can be run by typing the following command in the terminal:
+
+```Shell
+python3 transp4.py
+```
