@@ -1,5 +1,5 @@
 # C++ compiler
-cxx=g++-mp-13 -fopenmp
+cxx=g++-mp-14 -fopenmp
 
 # Compilation flags
 cflags=-Wall -Wno-deprecated-declarations -ansi -pedantic -O3
